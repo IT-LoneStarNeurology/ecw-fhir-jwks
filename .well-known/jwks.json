@@ -6,6 +6,14 @@
       "e": "AQAB",
       "kid": "ecw-fhir-app-key-2025",
       "use": "sig"
+    },
+    {
+      "alg": "RS384",
+      "e": "AQAB",
+      "kid": "ecw-fhir-app-key-2026-07",
+      "kty": "RSA",
+      "n": "v_qh3TVDL-iv4vGnVNxNyMjRROmHyvKnIFKhOXf2dJWPD_KQbJFCbcKmThLHrAIN6Zoy3sE7kik7Cbp-oA1SXqAh-yaJKEOLU12PrSi2XZHL84X4J1YeX-zK93DDYDzHNbbvH3oZ1jJh0mzwSVuv82PLZd5SFIYtTWSkyTt1UBtGX0rA_HxmlYCyOBY-6OAtRDXp8oes5WFNovp5RYnstZKCke4ey9RuHT5QcrPO7zQebA3uFCkL4cehMpCD59PTKxSTqSa2ni83VqIZpKG67qn8xWgpB8mOHCrZWpYLFCKeRLa7AEomYDTKxeBd-qFA1_GJlqxSdISORcgm_jMpWQ",
+      "use": "sig"
     }
   ]
 }
